@@ -1,0 +1,9 @@
+streamlit==1.25.0  # Adjust the version as per your installation
+sqlite3==0.0.1  # SQLite integration
+bcrypt==4.0.1  # Password hashing
+pandas==2.0.3  # Data manipulation
+numpy==1.24.2  # Numeric operations
+Pillow==9.2.0  # Image processing
+requests==2.31.0  # For making HTTP requests (e.g., API calls)
+openai==0.27.8  # OpenAI API integration
+plotly==5.15.0  # For interactive charts and dashboards
