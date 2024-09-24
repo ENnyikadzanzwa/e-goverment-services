@@ -1,5 +1,4 @@
-streamlit==1.25.0  # Adjust the version as per your installation
-sqlite3==0.0.1  # SQLite integration
+streamlit==1.25.0  # Adjust the version as per your  
 bcrypt==4.0.1  # Password hashing
 pandas==2.0.3  # Data manipulation
 numpy==1.24.2  # Numeric operations
